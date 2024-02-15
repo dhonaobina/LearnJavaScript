@@ -9,3 +9,10 @@ document.getElementById('Boolean').innerHTML = "If the value of a is greater tha
 var c = "I";
 var d = 'like mangoes.';
 document.getElementById('string').innerHTML = c + " " + d;
+
+var e = null;
+document.getElementById('null').innerHTML = "Value of e = " + e;
+
+var f;
+document.getElementById('undefined').innerHTML = "Value of f = " + f;
+
