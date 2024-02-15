@@ -1,14 +1,22 @@
+.main_divstyle {
+    border: 1;
+    box-shadow: -1px -2px 3px 1px black;
+    text-shadow: 0 0 0px black;
+    background-color: #c8dfec;
+    text-align: center;
+    align-items: center;
+    
+}
 .divstyle 
 {
     border: 1;
     box-shadow: -1px -2px 3px 1px black;
     text-shadow: 0 0 0px black;
     background-color: #c8dfec;
-    align-items: center;
-    text-align: center;
 }
+    
 
-p 
+p
 {
-    font-weight: bold;
+   
 }
