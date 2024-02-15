@@ -4,4 +4,6 @@
     box-shadow: -1px -2px 3px 1px black;
     text-shadow: 0 0 0px black;
     background-color: #c8dfec;
+    align-items: center;
+    text-align: center;
 }
