@@ -1,5 +1,3 @@
-# INTTROCUCTION TO PROGRAMMING JAVASCRIPT 
-
 ## Exercise 1 - Working with Primitive Data Types
 As you may already know, using HTML, you can create static web pages. However, you can make your web pages’ dynamic and interactive by using JavaScript.
 
