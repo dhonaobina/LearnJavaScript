@@ -5,3 +5,11 @@ function mystrfun(a)
 }
 
 document.getElementById("callf1").innerHTML = mystrfun('Planet Earth');
+
+function other_mystrfun(c)
+{
+    var d = 'I want to learn to code and  ' + c;
+    return d;
+}
+
+document.getElementById("callf2").innerHTML = other_mystrfun('I will not give up!');
