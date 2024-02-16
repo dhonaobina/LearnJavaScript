@@ -1,0 +1,16 @@
+#Exercise 1 - Working with Functions
+A function is a block of program statements, which can be defined once and called repetitively in a program. You have been using built-in functions like document.getElementById() all this while. This function helps you access the HTML element with the help of id attribute. However, not all your needs may be met through built-in functions. In these cases, JavaScript allows you to define your own functions. A user-defined function can be called multiple times. In addition to fostering reusability and saving development time, user-defined functions help make the code well organized, easy to maintain, and developer-friendly.
+
+In JavaScript, a user-defined function is declared with the keyword function and followed by the function name. For example:
+
+function calc()
+
+{
+
+return <statements>
+
+}
+
+The opening and closing curly braces indicate that the following block of code will contain the function definition. Functions can be defined with or without arguments. The return statement is used to return a value from a function.
+
+Once defined, you can call this function from within the code using the function name, parenthesis (opening and closing) and parameter(s), if present.
