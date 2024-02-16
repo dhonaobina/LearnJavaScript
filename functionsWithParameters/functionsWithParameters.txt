@@ -1,0 +1,41 @@
+Exercise 1 - Creating Functions with Parameters
+As you know, user-defined functions can have arguments or parameters. The parameters are placed within the parentheses just after the function name. These are separated by commas. For example, a user-defined function definition with parameters will be as follows:
+
+<script>
+
+function mycalc(num1, num2)
+
+{
+
+return num1*num2;
+
+}
+
+</script>
+
+The data types of parameters need not be specified. The values for parameters num1 and num2 will be passed when the function is invoked.
+
+The function mycalc(num1, num2) can be invoked as follows:
+
+<script>
+
+function mycalc(num1, num2)
+
+{
+
+return num1*num2;
+
+}
+
+document.write(mycalc(10,10));
+
+</script>
+
+The function will display the output as 100 on execution.
+
+In JavaScript, the function parameters are passed by value when the function is invoked. In other words, actual values are given to the parameters and not the memory locations of the parameters.
+
+In this exercise, you will learn how to create and invoke user-defined functions with parameters in JavaScript. You will perform two tasks:
+
+Task 1 - You will download the Visual Studio Code workspace (Calculator) from the Intranet and create a new HTML page named Functions_param.html in the Calculator workspace.
+Task 2 - You will write JavaScript code to create and invoke user-defined functions with parameters.
