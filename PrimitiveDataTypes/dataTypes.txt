@@ -1,4 +1,5 @@
 ## Exercise 1 - Working with Primitive Data Types
+
 As you may already know, using HTML, you can create static web pages. However, you can make your web pages’ dynamic and interactive by using JavaScript.
 
 JavaScript is the default scripting language used in HTML pages and it is easy to learn and code. It helps to control the behavioral aspect of web pages. Using JavaScript, you can change the styles, attributes, and HTML element contents. You can show or hide HTML elements in web pages.

@@ -1,0 +1,10 @@
+## Exercise 1 - Formatting Numbers
+You can format the numbers in JavaScript by using the various built-in methods such as toFixed() and toPrecision().
+
+The toFixed() method helps to display the number with the required number of decimal values. This method returns a string value. The toFixed() method takes a single parameter. You can also use this method without any parameter.
+
+The toPrecision() method helps to display the number with the required length or precision. This method also returns a string value. The toPrecision() method takes a single parameter that is optional.
+
+In this exercise, the first task will be to download the Visual Studio Code workspace from the Intranet and create a new HTML page named Formatnum.html in the Calculator workspace.
+
+In the second task, you will write JavaScript code to use the built-in number methods to format the numbers.
