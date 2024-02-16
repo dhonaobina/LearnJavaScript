@@ -1,3 +1,6 @@
+
+
+/* DATA TYPES */
 var x = 3.14;
 var y = 3;
 document.getElementById('number').innerHTML = "Value of x = " + x + "<br>" + "Value of y = " + y;
@@ -15,4 +18,5 @@ document.getElementById('null').innerHTML = "Value of e = " + e;
 
 var f;
 document.getElementById('undefined').innerHTML = "Value of f = " + f;
+
 
