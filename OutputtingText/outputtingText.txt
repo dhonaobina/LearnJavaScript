@@ -1,0 +1,12 @@
+Exercise 1 - Producing Outputs
+Generally, when you develop any program, you write code to take the inputs from the user at runtime, process the taken inputs, and produce the outputs. The display of the program outputs is very important to determine the successful execution of the program.
+
+In a web scripting language program, the outputs are displayed on the web pages. There are various ways to display data on web pages using JavaScript. Some of them are as follows:
+
+document.getElementById() method: This method takes the id of the HTML element as its parameter. The element id helps the method to access the HTML element.
+innerHTML property: This property is used with the method document.getElementById(). Using this property, you can pass on the required text, which needs to be displayed, to the HTML element. You can also retrieve and display the values of the variables.
+document.write() method: This method directly writes the text on the HTML pages.
+In this exercise, you will learn how to produce outputs on web pages using JavaScript. You will perform two tasks:
+
+Task 1 - You will download the Visual Studio Code workspace (Calculator) from the Intranet and create a new HTML page named Outputtext.html in the Calculator workspace.
+Task 2 - You will write JavaScript code to use the methods such as document.getElementById() and document.write() to produce outputs.
