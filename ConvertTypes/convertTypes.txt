@@ -1,0 +1,10 @@
+## Exercise 1 - Handling Type Conversions
+In real-time programming scenarios, as a developer you may come across situations where you need to determine the data type of variables used in the programs. JavaScript provides a built-in operator known as typeof that helps to identify the data types of variables.
+
+It is always recommended to declare the variables before using it in a program. JavaScript provides the strict mode option to check whether the variables are declared or not before the usage.
+
+At times, you may need to convert the existing data types of variables in the programs to other data types to perform certain tasks. In such cases, JavaScript automatically performs data type conversions, or you can convert the data types using built-in type conversion functions.
+
+In this exercise, you will learn about all these concepts such as the typeof operator, strict mode, and type conversions. In the first task, you will download the Visual Studio Code workspace from the Intranet and create a new HTML page named Converttypes.html in the Calculator workspace.
+
+In the second task, you will write JavaScript code to use the typeof operator to determine the data types of different values. You will use the strict mode to determine how the mode works. Finally, you will perform data type conversions using the type conversion functions. You will embed the code in the HTML page and run the page in Google Chrome web browser.

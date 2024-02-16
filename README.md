@@ -1,15 +1,2 @@
 # INTTROCUCTION TO PROGRAMMING JAVASCRIPT 
 
-## Exercise 1 - Working with Primitive Data Types
-As you may already know, using HTML, you can create static web pages. However, you can make your web pages’ dynamic and interactive by using JavaScript.
-
-JavaScript is the default scripting language used in HTML pages and it is easy to learn and code. It helps to control the behavioral aspect of web pages. Using JavaScript, you can change the styles, attributes, and HTML element contents. You can show or hide HTML elements in web pages.
-
-You can include JavaScript code within the <script> tag in a HTML file. You can have multiple <script> tags in a web page. You can place the <script> tags within the <body> or <head> element in a web page.
-
-In this exercise, the first task will be to create a new folder named Calculator on PLABWIN10 desktop, add the folder to Visual Studio Code workspace, and save the workspace with the name Calculator. You will create a new HTML page named Datatypes.html in the Calculator workspace.
-
-In the second task, you will write JavaScript code to use primitive data types, null, and undefined. You will embed the code in the HTML page and run the page in Google Chrome web browser.
-
-
-
