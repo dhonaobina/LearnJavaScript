@@ -9,6 +9,18 @@
     <script defer src="script.js"></script>
 </head>
 <body>
-    
+    <div class="main_divstyle">
+        <h2>Handling Events in JavaScript</h2>
+    </div>  
+    <div class="appbody">
+        <p id="txtinput"></p>
+            <div id="btn" align-items="center">
+                <button id="msg" 
+                onmouseover="setColor(this.id);" 
+                onmouseout="removeColor(this.id);" 
+                onclick="displayValue(this.id);" 
+                value="Have a nice day!">CLICK HERE!</button>
+            </div>
+    </div>
 </body>
 </html>
