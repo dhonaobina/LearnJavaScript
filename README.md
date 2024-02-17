@@ -12,7 +12,7 @@
   - Handling Events
 
 ## Please feel free to use this for learning
-### You can get in touch with me as I am opening for any collaborative projects
+### You can get in touch with me as I am open for any collaborative projects
 #### Thanks for taking time to check out my GitHub Account!
 ## Follow for more to check on my public project that I will be creating in future! :)
 
