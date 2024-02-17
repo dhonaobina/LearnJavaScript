@@ -1,0 +1,20 @@
+Exercise 1 - Handling Events
+Events are actions that take place whenever there is an activity associated with an HTML element at runtime. The activity can be user or browser initiated. For example, loading of a web page in a browser is an event or an action that the browser performs. This is a browser-initiated activity. If a button is clicked on the page, then it becomes a user-initiated activity.
+
+There are many events that you can include in your web pages such as:
+
+Loading of an image
+The clicking of a button
+Moving the mouse over an element
+Submitting an HTML form
+Resetting the values in an HTML form
+Pressing of a key on the keyboard
+What should ideally happen when an event takes place? Well, there should be some output associated with the event. Here, the concept of event handlers comes into the picture.
+
+You can define event handlers in your web pages that get executed when the events are triggered. You need to embed the event handler as attributes in the HTML tags. You need to assign the associated JavaScript code to the event handler.
+
+For example, you want to load an image on the click of a button. The code to load the image is written in a user-defined function, say loadimg(). The event handler for the click event will be onclick. The syntax to write the HTML code is as follows:
+
+<input type="button" value="btn1" onclick="loadimg()">
+
+All the HTML events have their own event handlers. Some of the event handlers are onclick, onmouseover, onmouseout, onload, onkeydown, etc.
